@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maheshpareek
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on JAVA Projects
+- 💞️ I’m looking to collaborate on JAVA Project
 - 📫 How to reach me pareekm644@gmail.com
 
 <!---
